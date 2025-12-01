@@ -1,3 +1,4 @@
+#ejemplo
 def suma_total(a, b, c):
     return a + b + c
 num1 = 5
