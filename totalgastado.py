@@ -1,3 +1,4 @@
+#total gastado
 def total_gastado (a, b, c, d, e, f):
     return a + b + c + d + e + f
 dia_1 = float(input("ingrese lo gastado el dia 1: "))
