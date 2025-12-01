@@ -1,3 +1,4 @@
+#nomina
 def nomina (a,b,c,d,activo):
     if activo:
         return a * b - c - d 
