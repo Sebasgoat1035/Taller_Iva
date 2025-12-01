@@ -1,3 +1,4 @@
+#suma
 def suma_total(a, b, c):
     return a + b + c
 num1 = float(input("ingrese el numero 1: "))
